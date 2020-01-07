@@ -1,5 +1,4 @@
 baseURL = "https://niku.page/"
-canonifyurls = true
 languageCode = "en-us"
 title = "ニク"
 description = "ハイパーガービッジな雑記ブログである。"
