@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://niku.page/niku/post/</loc>
+    <loc>https://niku.page/post/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://niku.page/niku/</loc>
+    <loc>https://niku.page/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://niku.page/niku/hello-world/</loc>
+    <loc>https://niku.page/hello-world/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://niku.page/niku/categories/</loc>
+    <loc>https://niku.page/categories/</loc>
   </url>
   
   <url>
-    <loc>https://niku.page/niku/tags/</loc>
+    <loc>https://niku.page/tags/</loc>
   </url>
   
 </urlset>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ニク</title>
-    <link>https://niku.page/niku/post/</link>
+    <link>https://niku.page/post/</link>
     <description>Recent content in Posts on ニク</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://niku.page/niku/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://niku.page/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>初めまして</title>
-      <link>https://niku.page/niku/hello-world/</link>
+      <link>https://niku.page/hello-world/</link>
       <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://niku.page/niku/hello-world/</guid>
+      <guid>https://niku.page/hello-world/</guid>
       <description>** a
 Hello,world Hello,world Hello,world
 *** aaaa
