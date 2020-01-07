@@ -1,4 +1,4 @@
-baseURL = "https://niku.page/"
+baseURL = "https://niku.page/niku"
 canonifyurls = true
 languageCode = "en-us"
 title = "ニク"
