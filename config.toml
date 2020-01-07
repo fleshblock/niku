@@ -5,6 +5,9 @@ description = "ハイパーガービッジな雑記ブログである。"
 theme = "simple-style"
 publishDir = "docs"
 
+[params]
+githubUrl = "https://niku.page/"
+
 
 [menu]
 
