@@ -1,4 +1,5 @@
 baseURL = "https://fleshblock.github.io/niku/"
+canonifyurls = true
 languageCode = "en-us"
 title = "ニク"
 description = "ハイパーガービッジな雑記ブログである。"
