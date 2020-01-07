@@ -1,3 +1,30 @@
-baseURL = "http://example.org/"
+baseURL = "https://fleshblock.github.io/niku/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "ニク"
+description = "ハイパーガービッジな雑記ブログである。"
+theme = "simple-style"
+publishDir = "docs"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "運営者情報"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -110
+
+  [[menu.main]]
+    name = "プライバシーポリシー"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/getting-started/"
+    weight = -100
+
+[[menu.main]]
+    name = "問い合わせ"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/getting-started/"
+    weight = -100
