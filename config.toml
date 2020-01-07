@@ -1,4 +1,4 @@
-baseURL = "https://fleshblock.github.io/niku/"
+baseURL = "https://niku.page/"
 canonifyurls = true
 languageCode = "en-us"
 title = "ニク"
