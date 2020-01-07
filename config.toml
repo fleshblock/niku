@@ -1,12 +1,16 @@
 baseURL = "https://niku.page/"
 canonifyurls = true
-languageCode = "en-us"
 title = "ニク"
+languageCode = "en-us"
 description = "ハイパーガービッジな雑記ブログである。"
-theme = "hugo_theme_pickles"
+theme = "hugo-vitae"
 publishDir = "docs"
 
-
+[params]
+  contentTypeName = "post"
+  defaultTheme = "dark"
+  showMenuItems = 3
+  showReadingTime = false
 
 [menu]
 
