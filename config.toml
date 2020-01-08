@@ -2,14 +2,13 @@ baseURL = "https://niku.page/"
 canonifyurls = true
 title = "ニク"
 languageCode = "en-us"
-description = "ハイパーガービッジな雑記ブログである。"
 theme = "hugo-vitae"
 publishDir = "docs"
+googleAnalytics = "UA-149589202-1"
 
 [params]
   contentTypeName = "post"
-  defaultTheme = "dark"
-  showMenuItems = 3
+  showMenuItems = 30
   showReadingTime = false
 
 [menu]
@@ -25,7 +24,7 @@ publishDir = "docs"
     name = "プライバシーポリシー"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
-    url = "/getting-started/"
+    url = "/プライバシーポリシー/"
     weight = -100
 
 [[menu.main]]
