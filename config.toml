@@ -7,6 +7,7 @@ publishDir = "docs"
 googleAnalytics = "UA-149589202-1"
 
 [params]
+  subtitle = "キリストを知ったのだから今はもう肉に従って生きることはすまい"
   contentTypeName = "post"
   showMenuItems = 30
   showReadingTime = false
