@@ -5,9 +5,9 @@ title = "ニク"
 theme = "hugo-vitae"
 publishDir = "docs"
 googleAnalytics = "UA-149589202-1"
+enableEmoji = true
 
 [params]
-subtitle = "キリストを知ったのだから今はもう肉に従って生きることはすまい。"
 contentTypeName = "post"
 showMenuItems = 30
 
