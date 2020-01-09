@@ -1,36 +1,28 @@
 baseURL = "https://niku.page/"
+languageCode = "en-us"
 canonifyurls = true
 title = "ニク"
-languageCode = "en-us"
 theme = "hugo-vitae"
 publishDir = "docs"
 googleAnalytics = "UA-149589202-1"
 
 [params]
-  subtitle = "キリストを知ったのだから今はもう肉に従って生きることはすまい"
-  contentTypeName = "post"
-  showMenuItems = 30
-  showReadingTime = false
+subtitle = "キリストを知ったのだから今はもう肉に従って生きることはすまい。"
+contentTypeName = "post"
+showMenuItems = 30
 
-[menu]
-
-  [[menu.main]]
-    identifier = "about"
-    name = "運営者情報"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/about/"
-    weight = -110
-
-  [[menu.main]]
-    name = "プライバシーポリシー"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/プライバシーポリシー/"
-    weight = -100
+# Nav.
+[[menu.main]]
+name = "運営者情報"
+url = "/運営者情報/"
+weight = 1
 
 [[menu.main]]
-    name = "問い合わせ"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/getting-started/"
-    weight = -100
+name = "プライバシーポリシー"
+url = "/プライバシーポリシー/"
+weight = 2
+
+[[menu.main]]
+name = "お問い合わせ"
+url = "/お問い合わせ/"
+weight = 3
