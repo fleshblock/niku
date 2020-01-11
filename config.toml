@@ -2,10 +2,10 @@ baseURL = "https://niku.page/"
 languageCode = "en-us"
 canonifyurls = true
 title = "ニク"
+enableEmoji = true
 theme = "hugo-vitae"
 publishDir = "docs"
 googleAnalytics = "UA-149589202-1"
-enableEmoji = true
 
 [params]
 contentTypeName = "post"

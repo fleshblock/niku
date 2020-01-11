@@ -358,7 +358,7 @@ ul {
 }
 
 .footer {
-    font-family: 'Kosugi Maru', serif;
+    font-family: "Roboto Slab Regular", serif;
     text-align: right;
     font-size: 0.75em;
     color: #999;
@@ -366,6 +366,7 @@ ul {
     margin-top: 10px;
     padding: 5px 0;
 }
+
     .footer a {
         color: #555;
     }
@@ -404,7 +405,7 @@ ul {
 .pagination .page-item.page-prev {
     text-align: left;
 }
-
+visibility:hidden;
 .pagination .page-item.page-next {
     text-align: right;
 }
