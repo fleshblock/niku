@@ -38,12 +38,18 @@ body {
 }
 
 a {
-    color: #3700ff;
+    color: #1A0DAB;
     text-decoration: none;
     word-break: break-word;
 }
     a:hover {
-        color: #808080;
+        color: #1A0DAB;
+        text-decoration: underline;
+    }
+
+    a:visited {
+        color: #660099;
+        text-decoration: none;
     }
 
 html,button,input,select,textarea {
@@ -358,7 +364,7 @@ ul {
 }
 
 .footer {
-    font-family: "Roboto Slab Regular", serif;
+    font-family: 'Kosugi Maru', sans-serif;
     text-align: right;
     font-size: 0.75em;
     color: #999;
