@@ -43,14 +43,12 @@ a {
     word-break: break-word;
 }
     a:hover {
-        color: #1A0DAB;
-        text-decoration: underline;
-    }
-
-    a:visited {
-        color: #660099;
-        text-decoration: none;
-    }
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: #1A0DAB;
+    text-decoration: none;
+    border-bottom: 2px solid;    
+}
 
 html,button,input,select,textarea {
     color: #333;
@@ -105,7 +103,7 @@ textarea {
 blockquote {
     margin-left: 1rem;
     font-size: 1.5rem;
-    border-left: 2px solid #3700FF;
+    border-left: 2px solid #1A0DAB;
     padding-left: 20px;
 }
 
@@ -237,12 +235,16 @@ ul {
     line-height: 1.0em;
 }
     .site-title a {
-        color: #333;
-        text-decoration: none;
+    color: #333;
+    text-decoration: none;
     }
+
     .site-title a:hover {
-        text-decoration: none;
-        color: #808080;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: #333;
+    text-decoration: none;
+    border-bottom: 2px solid;  
     }
 
 .header .site-description {
@@ -500,11 +502,11 @@ visibility:hidden;
     .header .avatar img {
         display: none;
     }
-
+  
     blockquote {
         margin-left: 1rem;
         font-size: 1.5rem;
-        border-left: 2px solid #3700FF;
+        border-left: 2px solid #1A0DAB;
         padding-left: 20px;
     }
 
