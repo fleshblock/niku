@@ -1,9 +1,9 @@
 @font-face {
-    font-family: 'Mamelon';
+    font-family: 'RiiTN_R';
     font-display: auto;
     font-style:  normal;
     font-weight: 400;
-    src: local('Mamelon'), url('../webfonts/Mamelon.woff') format('woff');
+    src: local('DiaPro-Bold.woff'), url('../webfonts/RiiTN_R.woff') format('woff');
 }
 
 @font-face {
@@ -16,7 +16,7 @@
 }
 
 body {
-    font-family: 'GloriaHallelujah-Regular', 'Mamelon', 'Kosugi Maru', sans-serif;
+    font-family: 'GloriaHallelujah-Regular', 'RiiTN_R', sans-serif;
     font-weight: 400;
     color: #333;
     line-height: 1.5em;
@@ -28,12 +28,9 @@ a {
     text-decoration: none;
     word-break: break-word;
 }
-    a:hover {
-    padding-top: 2px;
-    padding-bottom: 2px;
-    color: #1A0DAB;
-    text-decoration: none;
-    border-bottom: 2px solid;    
+
+a:hover {
+    color: #660099;
 }
 
 html,button,input,select,textarea {
@@ -222,19 +219,11 @@ ul {
 }
 .header .site-title {
     margin: 0 0 10px 0;
-   逮捕 line-height: 1.0em;
+    line-height: 1.0em;
 }
     .site-title a {
     color: #333;
     text-decoration: none;
-    }
-
-    .site-title a:hover {
-    padding-top: 2px;
-    padding-bottom: 2px;
-    color: #333;
-    text-decoration: none;
-    border-bottom: 2px solid;  
     }
 
 .header .site-description {
@@ -316,13 +305,13 @@ ul {
 }
 .post-header h1.title {
     margin: -10px 0 0 0;
-    font-family: 'Mamelon', 'Kosugi Maru', serif;
+    font-family: 'RiiTN_R', 'Kosugi Maru', serif;
     font-weight: bold;
 }
 
 .post .title.small {
     margin: 0 0 10px 0;
-    font-family: 'Mamelon', 'Kosugi Maru', serif;
+    font-family: 'RiiTN_R', 'Kosugi Maru', serif;
 }
 .post .post-header {
     margin-bottom: 30px;
@@ -356,7 +345,7 @@ ul {
 }
 
 .footer {
-    font-family: 'GloriaHallelujah-Regular', 'Mamelon', 'Kosugi Maru', sans-serif;
+    font-family: 'GloriaHallelujah-Regular', 'DiaPro-Bold', sans-serif;
     text-align: right;
     font-size: 0.75em;
     color: #999;
