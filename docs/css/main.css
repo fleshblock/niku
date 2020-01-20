@@ -1,9 +1,9 @@
 @font-face {
-    font-family: 'Sawarabi Gothic';
+    font-family: 'umeboshi';
     font-display: auto;
     font-style:  normal;
     font-weight: 400;
-    src: local('Sawarabi Gothic'), url('../webfonts/Sawarabi Gothic.woff') format('woff');
+    src: local('umeboshi'), url('../webfonts/umeboshi_.woff') format('woff');
 }
 
 @font-face {
@@ -16,7 +16,7 @@
 }
 
 body {
-    font-family: 'GloriaHallelujah-Regular', 'Sawarabi Gothic', sans-serif;
+    font-family: 'GloriaHallelujah-Regular', 'umeboshi', sans-serif;
     font-weight: 400;
     color: #333;
     line-height: 1.5em;
@@ -290,7 +290,7 @@ ul {
     text-align: center;
 }
 .post-header .meta .date .day {
-    font-family: 'Sawarabi Gothic', serif;
+    font-family: 'umeboshi', serif;
     font-weight: 400;
     line-height: 0.45em;
     font-size: 3em;
@@ -301,17 +301,17 @@ ul {
 .post-header .meta .date .rest {
     display: block;
     font-size: 1.0em;
-    font-family: 'Sawarabi Gothic', serif;
+    font-family: 'umeboshi', serif;
 }
 .post-header h1.title {
     margin: -10px 0 0 0;
-    font-family: 'Sawarabi Gothic', serif;
+    font-family: 'umeboshi', serif;
     font-weight: 400;
 }
 
 .post .title.small {
     margin: 0 0 10px 0;
-    font-family: 'Sawarabi Gothic', serif;
+    font-family: 'umeboshi', serif;
 }
 .post .post-header {
     margin-bottom: 30px;
@@ -345,7 +345,7 @@ ul {
 }
 
 .footer {
-    font-family: 'GloriaHallelujah-Regular', 'Sawarabi Gothic', sans-serif;
+    font-family: 'GloriaHallelujah-Regular', 'umeboshi', sans-serif;
     text-align: right;
     font-size: 0.75em;
     color: #999;
