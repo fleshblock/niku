@@ -38,13 +38,13 @@ html,button,input,select,textarea {
 }
 
 ::-moz-selection {
-    background: #3700ff;
+    background: #757575;
     text-shadow: none;
     color: #fff;
 }
 
 ::selection {
-    background: #1A0DAB;
+    background: #757575;
     text-shadow: none;
     color: #fff;
 }
