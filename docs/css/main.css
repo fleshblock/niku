@@ -296,8 +296,8 @@ ul {
     line-height: 0.45em;
     font-size: 1.8em;
     display: block;
-    margin-top: 0px;
-    margin-bottom: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .post-header .meta .date .rest {
     display: block;
