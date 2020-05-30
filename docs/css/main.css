@@ -1,26 +1,34 @@
 @font-face {
-    font-family: 'umeboshi';
+    font-family: 'Mplus 1p';
     font-display: swap;
-    font-style:  normal;
+    font-style: normal;
     font-weight: 400;
-    src: local('umeboshi'), url('../webfonts/umeboshi_.woff') format('woff');
+    src: url('../webfonts/MPLUS1p-Regular.woff') format('woff'),
 }
 
 @font-face {
-    font-family: 'Balsamiq Sans';
+    font-family: 'Mplus 1p';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 700;
+    src: url('../webfonts/MPLUS1p-Bold.woff') format('woff'),
+}
+
+@font-face {
+    font-family: 'Overpass Regular';
     font-display: swap;
     font-style:  normal;
     font-weight: 400;
-    src: local('BalsamiqSans-Regular'), url('../webfonts/BalsamiqSans-Regular.woff') format('woff');
+    src: local('Overpass-Regular'), url('../webfonts/Overpass-Regular.woff') format('woff');
     unicode-range: U+0000-00FF;
 }
 
 body {
-    font-family: 'Balsamiq Sans', 'umeboshi', sans-serif;
+    font-family: 'Overpass Regular', 'Mplus 1p', sans-serif;
     font-weight: 400;
     color: #424242;
-    line-height: 1.5em;
-    font-size: 1.25em;
+    line-height: 1.7;
+    font-size: 1.0rem;
 }
 
 a {
@@ -34,6 +42,7 @@ a:hover {
 }
 
 html,button,input,select,textarea {
+    font-size: 62.5%;
     color: #424242;
 }
 
@@ -89,7 +98,7 @@ textarea {
 
 blockquote {
     margin-left: 1rem;
-    font-size: 1.25rem;
+    font-size: 1.0rem;
     border-left: 2px solid #424242;
     padding-left: 20px;
 }
@@ -100,39 +109,40 @@ blockquote cite {
 }
 
 blockquote em {
-    font-weight: 600;
+    font-weight: 700;
 }
 
 
 h1, h2, h3, h4, h5, h6 {
     color: #424242;
-    font-weight: 500;
-    line-height: 1.3em;
+    font-weight: 400;
+    line-height: 1.7;
     margin: 30px 0 20px 0;
+    display:block;
 }
 
 h1 {
-    font-size: 2rem;
+    font-size: 2.4rem;
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 2.1rem;
 }
 
 h3 {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
 }
 
 h4 {
-    font-size: 1.2rem;
+    font-size: 1.6rem;
 }
 
 h5 {
-    font-size: 1rem;
+    font-size: 1.4rem;
 }
 
 h6 {
-    font-size: .9rem;
+    font-size: 1.2rem;
 }
 
 .align-center {
@@ -219,7 +229,7 @@ ul {
 }
 .header .site-title {
     margin: 0 0 10px 0;
-    line-height: 1.0em;
+    line-height: 1.7;
 }
     .site-title a {
     color: #333;
@@ -270,7 +280,7 @@ ul {
 
 .section .section-header {
     font-size: 0.75rem;
-    font-weight: 600;
+    font-weight: 400;
     text-transform: uppercase;
     color: #999;
     margin-bottom: 20px;
@@ -291,29 +301,31 @@ ul {
 }
 
 .post-header .meta .date .day {
-    font-family: 'Balsamiq Sans';
+    font-family: 'Overpass Regular';
     font-weight: 400;
-    line-height: 0.45em;
-    font-size: 1.8em;
+    font-size: 1.8rem;
     display: block;
-    margin-top: 10px;
-    margin-bottom: 10px;
 }
 .post-header .meta .date .rest {
     display: block;
-    font-size: 1.0em;
-    font-family: 'Balsamiq Sans';
+    font-size: 1.8rem;
+    font-family: 'Overpass Regular';
+    line-height: 1.5;
 }
 .post-header h1.title {
     margin: 0px 0 0 0;
-    font-family: 'Balsamiq Sans', 'umeboshi', serif;
+    font-family: 'Overpass Regular', 'Mplus 1p', serif;
+    line-height: 1.5;
     font-weight: 400;
 }
 
 .post .title.small {
     margin: 0 0 10px 0;
-    font-family: 'Balsamiq Sans', 'umeboshi', serif;
+    font-family: 'Overpass Regular', 'Mplus 1p', serif;
+    font-size: 2.1rem;
+    line-height: 1.5;
 }
+
 .post .post-header {
     margin-bottom: 30px;
 }
@@ -346,7 +358,7 @@ ul {
 }
 
 .footer {
-    font-family: 'Balsamiq Sans', 'umeboshi', sans-serif;
+    font-family: 'Overpass Regular', 'Mplus 1p', sans-serif;
     text-align: right;
     font-size: 0.75em;
     color: #999;
@@ -412,7 +424,7 @@ visibility:hidden;
 }
 
 .page-title {
-  font-weight: 500;
+  font-weight: 400;
   margin-top: 0px;
 }
 
