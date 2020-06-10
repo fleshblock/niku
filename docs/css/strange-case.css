@@ -132,8 +132,13 @@ img {
 	margin-top: 1.5em;
 }
 .sidebar .sidebar-menus li a {
-	text-decoration:underline;
+	text-decoration: none;
 }
+
+.sidebar .sidebar-menus li a:hover {
+	text-decoration: underline;
+}
+
 .sidebar .sidebar-contact {
 	padding-left: 0;
 	margin-left: 0;
