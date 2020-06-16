@@ -1,64 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ニク</title>
-    <link>https://niku.page/</link>
-    <description>Recent content on ニク</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>fleshblock</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://niku.page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>noteの使い方を覚える前に1秒でやめた理由</title>
-      <link>https://niku.page/note%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E3%82%92%E8%A6%9A%E3%81%88%E3%82%8B%E5%89%8D%E3%81%AB1%E7%A7%92%E3%81%A7%E3%82%84%E3%82%81%E3%81%9F%E7%90%86%E7%94%B1/</link>
-      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://niku.page/note%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E3%82%92%E8%A6%9A%E3%81%88%E3%82%8B%E5%89%8D%E3%81%AB1%E7%A7%92%E3%81%A7%E3%82%84%E3%82%81%E3%81%9F%E7%90%86%E7%94%B1/</guid>
-      
-        <description>&lt;p&gt;&lt;img src=&#34;../note%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E3%82%92%E8%A6%9A%E3%81%88%E3%82%8B%E5%89%8D%E3%81%AB1%E7%A7%92%E3%81%A7%E3%82%84%E3%82%81%E3%81%9F%E7%90%86%E7%94%B1/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%9A%9C%E5%AE%B3.webp&#34; alt=&#34;システム障害&#34;&gt;&lt;/p&gt;
+ <channel>
+   <title>ニク</title>
+   <link>https://niku.page/</link>
+   <description>Recent content on ニク</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <language>en-us</language>
+   <copyright>fleshblock</copyright>
+   <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+   
+       <atom:link href="https://niku.page/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+     <item>
+       <title>noteの使い方を覚える前に1秒でやめた理由</title>
+       <link>https://niku.page/note%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E3%82%92%E8%A6%9A%E3%81%88%E3%82%8B%E5%89%8D%E3%81%AB1%E7%A7%92%E3%81%A7%E3%82%84%E3%82%81%E3%81%9F%E7%90%86%E7%94%B1/</link>
+       <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+       
+       <guid>https://niku.page/note%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E3%82%92%E8%A6%9A%E3%81%88%E3%82%8B%E5%89%8D%E3%81%AB1%E7%A7%92%E3%81%A7%E3%82%84%E3%82%81%E3%81%9F%E7%90%86%E7%94%B1/</guid>
+       <description>&lt;p&gt;&lt;img src=&#34;../note%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E3%82%92%E8%A6%9A%E3%81%88%E3%82%8B%E5%89%8D%E3%81%AB1%E7%A7%92%E3%81%A7%E3%82%84%E3%82%81%E3%81%9F%E7%90%86%E7%94%B1/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%9A%9C%E5%AE%B3.webp&#34; alt=&#34;システム障害&#34;&gt;&lt;/p&gt;
 &lt;p&gt;noteでアカウントを取得すると、文章、写真、音楽、漫画、図解、動画など、創作活動にいそしむことができる。ただし、これは致命的といえるのだが独自ドメインで利用できない。また、サークルを作りファンとの交流を楽しむことや、吉本隆明の娘のように月額400円のマガジンを売ることも可能だ。&lt;/p&gt;
 &lt;p&gt;吉本隆明とは「佃渡しで」という詩を書いた人である。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;〈あれが住吉神社だ&lt;br&gt;
-佃祭りをやるところだ&lt;br&gt;
-あれが小学校　ちいさいだろう〉&lt;br&gt;
-これからさきは娘に云えぬ&lt;br&gt;
-昔の街はちいさくみえる&lt;br&gt;
-掌のひらの感情と頭脳と生命の線のあいだの窪みにはいって&lt;br&gt;
-しまうように&lt;br&gt;
-すべての距離がちいさくみえる&lt;br&gt;
-すべての思想とおなじように&lt;br&gt;
-あの昔遠かった距離がちぢまってみえる&lt;br&gt;
-わたしが生きてきた道を&lt;br&gt;
-娘の手をとり　いま氷雨にぬれながら&lt;br&gt;
-いっさんに通りすぎる&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.daiwashobo.co.jp/web/html/hirakawa2/vol09.html&#34;&gt;WEB連載：見えないものとの対話 平川克美 ／　第９回 失われた風景&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;quoteback&#34; data-title=&#34;大和書房WEB連載&#34; data-author=&#34;@Daiwashobou&#34; cite=&#34;http://www.daiwashobo.co.jp/web/html/hirakawa2/vol09.html&#34;&gt;
+〈あれが住吉神社だ&lt;/br&gt;
+佃祭りをやるところだ&lt;/br&gt;
+あれが小学校　ちいさいだろう〉&lt;/br&gt; 
+これからさきは娘に云えぬ&lt;/br&gt;
+昔の街はちいさくみえる&lt;/br&gt;
+掌のひらの感情と頭脳と生命の線のあいだの窪みにはいって&lt;/br&gt;
+しまうように&lt;/br&gt;
+すべての距離がちいさくみえる&lt;/br&gt;
+すべての思想とおなじように&lt;/br&gt;
+あの昔遠かった距離がちぢまってみえる&lt;/br&gt;
+わたしが生きてきた道を&lt;/br&gt;
+娘の手をとり　いま氷雨にぬれながら&lt;/br&gt;
+いっさんに通りすぎる&lt;/br&gt;
+&lt;footer&gt;@Daiwashobou&lt;cite&gt;&lt;a href=&#34;http://www.daiwashobo.co.jp/web/html/hirakawa2/vol09.html&#34;&gt;http://www.daiwashobo.co.jp/web/html/hirakawa2/vol09.html&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;
+&lt;/blockquote&gt;&lt;script note=&#34;&#34; src=&#34;https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js&#34;&gt;&lt;/script&gt;
 &lt;p&gt;昔の街が極度に小さく、遠かった距離も縮小して見えるのはなぜか。氷雨に濡れて脳梗塞を起こしたのか。小説や詩をたくさん読むと理解できるようになるのかといえばそうではない。吉本隆明が述べているように素人には無理な話なのである。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;「あとがき」でヨシモト先生は次のように書いています（要約）。「書評を普遍化した程度に書こうと思ったが、・・・作家や思想家や詩人についての専門研究者にゆだねるほかないという限界を感じた。・・・私の方法的な思考の断片は、対象に誘発されて、いたるところに埋め込むことができた。翻訳でしか接することができない作家や思想家や詩人に対する振舞いかたがわからない。また正確な把握もできていないようだ。・・・謙虚でなければならないところで、図にのりすぎて個々の作家や思想家や詩人の像を歪めているかもしれない」と。&lt;/p&gt;
+&lt;blockquote class=&#34;quoteback&#34; data-title=&#34;Amazon.co.jp: 書物の解体学 (講談社文芸文庫) eBook: 吉本隆明: Kindle Store&#34; data-author=&#34;&#34; cite=&#34;https://www.amazon.co.jp/dp/B08725XV9Q&#34;&gt;
+「あとがき」でヨシモト先生は次のように書いています（要約）。「書評を普遍化した程度に書こうと思ったが、・・・作家や思想家や詩人についての専門研究者にゆだねるほかないという限界を感じた。・・・私の方法的な思考の断片は、対象に誘発されて、いたるところに埋め込むことができた。翻訳でしか接することができない作家や思想家や詩人に対する振舞いかたがわからない。また正確な把握もできていないようだ。・・・謙虚でなければならないところで、図にのりすぎて個々の作家や思想家や詩人の像を歪めているかもしれない」と。
+&lt;footer&gt; &lt;cite&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/B08725XV9Q&#34;&gt;https://www.amazon.co.jp/dp/B08725XV9Q&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/B08725XV9Q/ref=cm_sw_em_r_mt_dp_U_Eds5EbPSTMP2Z&#34;&gt;書物の解体学 (講談社文芸文庫) | 吉本隆明 | 日本の小説・文芸 | Kindleストア | Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;script note=&#34;&#34; src=&#34;https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js&#34;&gt;&lt;/script&gt;
 &lt;p&gt;本題に入る。独自ドメインがないとどのような憂き目に合うだろうか。サービス終了により蓄積したコンテンツや他のサイトから集めたリンクが消える。これは100パーセント予測可能な未来だ。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;「貴重なFlashを保管していたサイトが滅びてしまった」「資料が喪失した」など、サービス終了を惜しむ声が上がっている。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/1904/01/news095.html&#34;&gt;「Yahoo!ジオシティーズ」終了　「貴重な資料消えた」──ネットから惜しむ声 - ITmedia NEWS&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;quoteback&#34; data-title=&#34;「Yahoo!ジオシティーズ」終了　「貴重な資料消えた」──ネットから惜しむ声&#34; data-author=&#34;@itmedia_news&#34; cite=&#34;https://www.itmedia.co.jp/news/articles/1904/01/news095.html&#34;&gt;
+&lt;p&gt;ヤフーが運営するWebサイト作成サービス「Yahoo!ジオシティーズ」が3月31日でサービスを終了した。ネット上では、「貴重なFlashを保管していたサイトが滅びてしまった」「資料が喪失した」など、サービス終了を惜しむ声が上がっている。&lt;/p&gt;
+&lt;footer&gt;@itmedia_news&lt;cite&gt;&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/1904/01/news095.html&#34;&gt;https://www.itmedia.co.jp/news/articles/1904/01/news095.html&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;
+&lt;/blockquote&gt;&lt;script note=&#34;&#34; src=&#34;https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js&#34;&gt;&lt;/script&gt;
 &lt;p&gt;貴重なFlashの保管庫は削除され、二度とアクセスすることができなくなった。別の場所に再度アップロードしてもたどり着けるのは少数だ。&lt;/p&gt;
 &lt;p&gt;SNSについてもサービス終了という観点から例示しておく。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Google+は米FacebookのFacebookの人気が高まっていた2011年6月にGoogleが立ち上げたソーシャルサービス。Facebookページのようなサービスで企業を取り込もうとしてきたが、近年はほとんどアップデートもなく、昨年10月に「利用者が少ないため」として終了を予告した。&lt;/p&gt;
+&lt;blockquote class=&#34;quoteback&#34; data-title=&#34;Google+、予告通り4月2日に約7年半の歴史に幕&#34; data-author=&#34;@itmedia_news&#34; cite=&#34;https://www.itmedia.co.jp/news/articles/1904/03/news078.html&#34;&gt;
+Google+は米FacebookのFacebookの人気が高まっていた2011年6月にGoogleが立ち上げたソーシャルサービス。Facebookページのようなサービスで企業を取り込もうとしてきたが、&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/1707/29/news031.html&#34; target=&#34;_blank&#34;&gt;近年はほとんどアップデートもなく&lt;/a&gt;、&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/1810/09/news049.html&#34; target=&#34;_blank&#34;&gt;昨年10月に「利用者が少ないため」として&lt;/a&gt;終了を予告した。
+&lt;footer&gt;@itmedia_news &lt;cite&gt;&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/1904/03/news078.html&#34;&gt;https://www.itmedia.co.jp/news/articles/1904/03/news078.html&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/1904/03/news078.html&#34;&gt;Google+、予告通り4月2日に約7年半の歴史に幕 - ITmedia NEWS&lt;/a&gt;&lt;/p&gt;
+&lt;script note=&#34;&#34; src=&#34;https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js&#34;&gt;&lt;/script&gt;
 &lt;p&gt;強力なライバルが立ちはだかり、利用者が伸びずにサービス終了を迎えることもある。必死でつぶやき、必死でかき集めたフォロワーは水泡に帰す。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;分散型ソーシャルネットワーク機構はmstdn.jpなどを終了する理由として、ネット上の中傷に対する法制強化が実現された場合に運営の事務負担増加に対応しきれないことを挙げていた。&lt;/p&gt;
+&lt;blockquote class=&#34;quoteback&#34; data-title=&#34;マストドン「mstdn.jp」、存続決まる　新運営はTwitterクライアント「Twidere」メンテナー&#34; data-author=&#34;@itmedia_news&#34; cite=&#34;https://www.itmedia.co.jp/news/articles/2006/11/news081.html&#34;&gt;
+分散型ソーシャルネットワーク機構はmstdn.jpなどを終了する理由として、ネット上の中傷に対する法制強化が実現された場合に運営の事務負担増加に対応しきれないことを挙げていた。
+&lt;footer&gt;@itmedia_news &lt;cite&gt;&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/2006/11/news081.html&#34;&gt;https://www.itmedia.co.jp/news/articles/2006/11/news081.html&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/2006/11/news081.html&#34;&gt;マストドン「mstdn.jp」、存続決まる　新運営はTwitterクライアント「Twidere」メンテナー - ITmedia NEWS&lt;/a&gt;&lt;/p&gt;
+&lt;script note=&#34;&#34; src=&#34;https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js&#34;&gt;&lt;/script&gt;
 &lt;p&gt;赤字を垂れ流すサービスは経費削減で捨てられることもある。世知辛い。&lt;/p&gt;
 &lt;div class=&#34;iframely-embed&#34;&gt;&lt;div class=&#34;iframely-responsive&#34; style=&#34;height: 140px; padding-bottom: 0;&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)&#34; data-iframely-url=&#34;//cdn.iframe.ly/ZxPEmj0?iframe=card-small&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;script async src=&#34;//cdn.iframe.ly/embed.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;p&gt;Jakob Nielsen(2005)は、「BlogspotやTypepadのアカウントは、Geocitiesでホームページを持つのと同等になる」と述べている。また、「誰かに名前を所有させることはインターネット上での運命を、その誰かが握っているということであり、サービスの質を好きなだけ低下させることも可能であるから、無料アカウントから離れがたくなる前に、本気でブログを書いていると気がついたならばすぐに離れろ」とも警告している。&lt;/p&gt;
@@ -68,17 +70,15 @@
 &lt;p&gt;はてなブログはテーマが10年以上前から進歩していない。勝間和代は親指シフトに適した、スペースキーの短い日本語キーボードのノートパソコンを探している。大辞林は身の毛がよだつを、「恐ろしさのあまり、身の毛がさか立つように感ずる」と定義している。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;参考文献&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;iframely-embed&#34;&gt;&lt;div class=&#34;iframely-responsive&#34; style=&#34;height: 140px; padding-bottom: 0;&#34;&gt;&lt;a href=&#34;https://www.nngroup.com/articles/weblog-usability-top-ten-mistakes/&#34; data-iframely-url=&#34;//cdn.iframe.ly/zJWqVLy?iframe=card-small&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;script async src=&#34;//cdn.iframe.ly/embed.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>猿にでも書ける論証型レポート</title>
-      <link>https://niku.page/%E8%AB%96%E8%A8%BC%E5%9E%8B%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://niku.page/%E8%AB%96%E8%A8%BC%E5%9E%8B%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/</guid>
-      
-        <description>&lt;p&gt;&lt;img src=&#34;../%E8%AB%96%E8%A8%BC%E5%9E%8B%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88.webp&#34; alt=&#34;レポート&#34;&gt;
+     </item>
+   
+     <item>
+       <title>猿にでも書ける論証型レポート</title>
+       <link>https://niku.page/%E8%AB%96%E8%A8%BC%E5%9E%8B%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/</link>
+       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+       
+       <guid>https://niku.page/%E8%AB%96%E8%A8%BC%E5%9E%8B%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/</guid>
+       <description>&lt;p&gt;&lt;img src=&#34;../%E8%AB%96%E8%A8%BC%E5%9E%8B%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88.webp&#34; alt=&#34;レポート&#34;&gt;
 Photo by Kimberly Sterling on Unsplash&lt;/p&gt;
 &lt;p&gt;論証型レポートとは、問題に対して調査や研究に基づき客観的な方法で根拠づけ意見を論述するものだ。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;帰納的展開法の例文&lt;/strong&gt;&lt;/p&gt;
@@ -107,17 +107,15 @@ Photo by Kimberly Sterling on Unsplash&lt;/p&gt;
 &lt;p&gt;これを書くにあたって適切な例文を探すのに苦労した。Google Newsに接続語を入れて検索すると早く見つけることができる。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;参考文献&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;iframely-embed&#34;&gt;&lt;div class=&#34;iframely-responsive&#34; style=&#34;height: 140px; padding-bottom: 0;&#34;&gt;&lt;a href=&#34;https://www.amazon.co.jp/%25E3%2580%2588%25E5%259E%258B%25E3%2580%2589%25E3%2581%25A7%25E6%259B%25B8%25E3%2581%258F%25E6%2596%2587%25E7%25AB%25A0%25E8%25AB%2596%25EF%25BC%25BB%25E6%2594%25B9%25E8%25A8%25822%25E7%2589%2588%25EF%25BC%25BD%25E2%2580%2595%25E2%2580%2595%25E8%25AA%25B0%25E3%2581%25A7%25E3%2582%2582%25E6%259B%25B8%25E3%2581%2591%25E3%2582%258B%25E3%2583%25AC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E8%25AC%259B%25E5%25BA%25A7-%25E8%25A5%25BF%25E7%2594%25B0%25E3%2581%25BF%25E3%2581%25A9%25E3%2582%258A-ebook/dp/B00NMHD62W&#34; data-iframely-url=&#34;//cdn.iframe.ly/QtpXOi6?iframe=card-small&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;script async src=&#34;//cdn.iframe.ly/embed.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>中古スマホのおすすめは画面に傷とヤケがあるストックAndroid</title>
-      <link>https://niku.page/%E4%B8%AD%E5%8F%A4%E3%82%B9%E3%83%9E%E3%83%9B/</link>
-      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://niku.page/%E4%B8%AD%E5%8F%A4%E3%82%B9%E3%83%9E%E3%83%9B/</guid>
-      
-        <description>&lt;p&gt;&lt;img src=&#34;../%E4%B8%AD%E5%8F%A4%E3%82%B9%E3%83%9E%E3%83%9B/%E4%B8%AD%E5%8F%A4%E3%82%B9%E3%83%9E%E3%83%9B.webp&#34; alt=&#34;中古スマホ&#34;&gt;&lt;/p&gt;
+     </item>
+   
+     <item>
+       <title>中古スマホのおすすめは画面に傷とヤケがあるストックAndroid</title>
+       <link>https://niku.page/%E4%B8%AD%E5%8F%A4%E3%82%B9%E3%83%9E%E3%83%9B/</link>
+       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+       
+       <guid>https://niku.page/%E4%B8%AD%E5%8F%A4%E3%82%B9%E3%83%9E%E3%83%9B/</guid>
+       <description>&lt;p&gt;&lt;img src=&#34;../%E4%B8%AD%E5%8F%A4%E3%82%B9%E3%83%9E%E3%83%9B/%E4%B8%AD%E5%8F%A4%E3%82%B9%E3%83%9E%E3%83%9B.webp&#34; alt=&#34;中古スマホ&#34;&gt;&lt;/p&gt;
 &lt;p&gt;中古でスマートフォンを購入する場合は画面の傷やヤケを気にしてはならない。確かに、白背景に固定しているのであれば、傷やヤケが気になることもある。しかし、どのようなアプリでも画面の傷が目立つような白さであり続けることなど稀だ。さらに、近頃はダークモードが流行っている。&lt;/p&gt;
 &lt;p&gt;また、多少の使用感を許容できないのにもかかわらず、中古スマホを検討するのは矛盾している。目立つ傷があると買い手も少なくなるのだから価格も下がる。したがって、中古で購入すると決意したならば、積極的に傷やヤケがある安価な端末を狙うべきだ。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../%E4%B8%AD%E5%8F%A4%E3%82%B9%E3%83%9E%E3%83%9B/%E3%81%98%E3%82%83%E3%82%93%E3%81%B1%E3%82%89.webp&#34; alt=&#34;じゃんぱら&#34;&gt;&lt;/p&gt;
@@ -138,17 +136,15 @@ Photo by Kimberly Sterling on Unsplash&lt;/p&gt;
 &lt;a href=&#34;https://www.youtube.com/watch?v=gGnUqqr3c2g&#34;&gt;Google Pixel 4 XL Vs iPhone SE 2020 Speed Test - YouTube&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;画面サイズは6インチ以上を選択するべきだ。携帯性よりも視認性の良さを優先する。視認性の観点から小さくて良いことは何もない。たとえば、Webページの小見出しが多く目に入り効率良く読める。また、動画も大画面は臨場感がある。アプリの操作も画面が小さいと指先に神経を使う。したがって、携帯性という利点は視認性重視で捨てる。トレードオフを踏まえて利便性の追求をするべきだ。必要以上に小型にこだわるのは馬鹿そのものといえる。&lt;/p&gt;
 &lt;p&gt;この記事を書き上げるために1週間を要した。なぜなら、小理屈を並べるのに苦労したからだ。記事タイトルの1行で終わる話を膨らませるのは至難の技である。AmazonでOUKITELやUMIDIGIを選択すればよいのに、中古でスマホを購入しようとするのは暇人だ。馬鹿に付ける薬はない。それゆえに、本記事が役に立つこともあるだろう。&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Dota Underlordsのホワイトスパイアの支配者は猿にでも到達可能である</title>
-      <link>https://niku.page/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A2%E3%81%AE%E6%94%AF%E9%85%8D%E8%80%85/</link>
-      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://niku.page/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A2%E3%81%AE%E6%94%AF%E9%85%8D%E8%80%85/</guid>
-      
-        <description>&lt;p&gt;&lt;img src=&#34;../%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A2%E3%81%AE%E6%94%AF%E9%85%8D%E8%80%85/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A2%E3%81%AE%E6%94%AF%E9%85%8D%E8%80%85.webp&#34; alt=&#34;ホワイトスパイアの支配者&#34;&gt;&lt;/p&gt;
+     </item>
+   
+     <item>
+       <title>Dota Underlordsのホワイトスパイアの支配者は猿にでも到達可能</title>
+       <link>https://niku.page/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A2%E3%81%AE%E6%94%AF%E9%85%8D%E8%80%85/</link>
+       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+       
+       <guid>https://niku.page/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A2%E3%81%AE%E6%94%AF%E9%85%8D%E8%80%85/</guid>
+       <description>&lt;p&gt;&lt;img src=&#34;../%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A2%E3%81%AE%E6%94%AF%E9%85%8D%E8%80%85/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A2%E3%81%AE%E6%94%AF%E9%85%8D%E8%80%85.webp&#34; alt=&#34;ホワイトスパイアの支配者&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ノックアウトモードにおいて最高ランクのホワイトスパイアの支配者に到達した。昨年の12月にこのモードが追加され、シーズン1が2月25日に始まった。5ヶ月が経過してようやくスタート地点に立つことができた。それもこれも、大ボスへとランクを上げるまで自己流でプレイしていたせいである。&lt;/p&gt;
 &lt;p&gt;ホワイトスパイアの支配者に到達することは誰にでも可能だ。なぜなら、上手い人間の動画を参考にしてプレイをする単純作業に過ぎないからである。真似をするだけで勝てるとなると大ボスで溢れかえるのではないかと思われるかもしれない。確かに、Dota Underlordsのプレイ動画はそれなりに再生数がある。しかし、自分よりも強いプレイヤーを参考にして真剣に学ぼうとする人間はひと握りだ。たとえば、Twitchの動画を探してまで見る人はほとんどいない。リーダーボードの上位をキープするドイツ人プレイヤーでも再生回数を見ると1桁だ。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A2%E3%81%AE%E6%94%AF%E9%85%8D%E8%80%85/boo_5200.webp&#34; alt=&#34;boo_5200&#34;&gt;&lt;/p&gt;
@@ -174,17 +170,15 @@ Photo by Kimberly Sterling on Unsplash&lt;/p&gt;
 &lt;p&gt;当たり前だが酒をあおりながらプレイするのはよくない。この大ボスのプレイヤーは試合が終了するごとにふらふらとした足取りで用を足していた。それゆえに、集中力が切れたようなプレイが散見された。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A2%E3%81%AE%E6%94%AF%E9%85%8D%E8%80%85/%E9%81%B8%E7%90%83%E7%9C%BC.gif&#34; alt=&#34;選球眼&#34;&gt;&lt;/p&gt;
 &lt;p&gt;地道に練習をしていくと何を取るべきかが理解できるようになる。すなわち、強い構成が認識できるということだ。構成を見抜くことができる眼が最も重要であることは明らかである。なぜなら、リロールで出現する大量のごみをスルーすることができる「選球眼」を持つ人間が勝者だからだ。下手なプレイヤーにはこの眼がない。どのように組み合わせると強いのかを十分に理解していない。したがって、試合数を重ねるほどに他のプレイヤー、特にリーダーボードの上位、の養分と化すのである。&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>これスキ、スコなどの頭の悪い感情表現から脱却する文章作法</title>
-      <link>https://niku.page/%E6%96%87%E7%AB%A0%E4%BD%9C%E6%B3%95/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://niku.page/%E6%96%87%E7%AB%A0%E4%BD%9C%E6%B3%95/</guid>
-      
-        <description>&lt;p&gt;&lt;img src=&#34;../%E6%96%87%E7%AB%A0%E4%BD%9C%E6%B3%95/%E6%96%87%E7%AB%A0%E4%BD%9C%E6%B3%95.webp&#34; alt=&#34;文章作法&#34;&gt;
+     </item>
+   
+     <item>
+       <title>これスキ、スコなどの頭の悪い感情表現から脱却する文章作法</title>
+       <link>https://niku.page/%E6%96%87%E7%AB%A0%E4%BD%9C%E6%B3%95/</link>
+       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+       
+       <guid>https://niku.page/%E6%96%87%E7%AB%A0%E4%BD%9C%E6%B3%95/</guid>
+       <description>&lt;p&gt;&lt;img src=&#34;../%E6%96%87%E7%AB%A0%E4%BD%9C%E6%B3%95/%E6%96%87%E7%AB%A0%E4%BD%9C%E6%B3%95.webp&#34; alt=&#34;文章作法&#34;&gt;
 Photo by Ronan Furuta on Unsplash&lt;/p&gt;
 &lt;p&gt;文章作法を学ぶ気がないのであれば、Blogを書くことは断念すべきだ。駄文で他人の時間を奪うからだ。作法を取得するために2冊の本を入手しなければならない。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.amazon.co.jp/NHK%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98%E8%BE%9E%E5%85%B8-%EF%BC%AE%EF%BC%A8%EF%BC%AB%E6%94%BE%E9%80%81%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6%E6%89%80/dp/4140112999&#34;&gt;NHK漢字表記辞典 | ＮＨＫ放送文化研究所 |本 | 通販 | Amazon&lt;/a&gt;&lt;/p&gt;
@@ -257,55 +251,7 @@ Photo by Ronan Furuta on Unsplash&lt;/p&gt;
 &lt;p&gt;頭の悪い感情表現から脱却する文章作法という主題で書いてきた。しかし、基本的心得であっても勉強しようとする人間は少数だ。また、敬体で冗長な文章が理解しやすいと勘違いしている。つまり、作法があることに気がついていない。したがって、文章作法についてこれより先を書き続けることは糠に釘であると判断した。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;参考文献&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;iframely-embed&#34;&gt;&lt;div class=&#34;iframely-responsive&#34; style=&#34;height: 140px; padding-bottom: 0;&#34;&gt;&lt;a href=&#34;https://www.amazon.co.jp/%25E3%2580%2588%25E5%259E%258B%25E3%2580%2589%25E3%2581%25A7%25E6%259B%25B8%25E3%2581%258F%25E6%2596%2587%25E7%25AB%25A0%25E8%25AB%2596%25EF%25BC%25BB%25E6%2594%25B9%25E8%25A8%25822%25E7%2589%2588%25EF%25BC%25BD%25E2%2580%2595%25E2%2580%2595%25E8%25AA%25B0%25E3%2581%25A7%25E3%2582%2582%25E6%259B%25B8%25E3%2581%2591%25E3%2582%258B%25E3%2583%25AC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E8%25AC%259B%25E5%25BA%25A7-%25E8%25A5%25BF%25E7%2594%25B0%25E3%2581%25BF%25E3%2581%25A9%25E3%2582%258A-ebook/dp/B00NMHD62W&#34; data-iframely-url=&#34;//cdn.iframe.ly/QtpXOi6?iframe=card-small&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;script async src=&#34;//cdn.iframe.ly/embed.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>プライバシーポリシー</title>
-      <link>https://niku.page/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://niku.page/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC/</guid>
-      
-        <description>&lt;p&gt;&lt;strong&gt;広告の配信について&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;当サイトは第三者配信の広告サービスである「Google Adsense」を利用しています。
-広告配信事業者はユーザーの興味に応じた広告を表示するためにCookieを使用することがあります。Cookieを無効にする設定およびGoogle Adsenseに関する詳細は広告 – ポリシーと規約 – Googleで確認できます。
-第三者がコンテンツおよび宣伝を提供し訪問者から直接情報を収集することがあります。訪問者のブラウザにCookieを設定したりこれを認識します。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;アクセス解析ツールについて&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;当サイトではGoogleによるアクセス解析ツールである「Googleアナリティクス」を利用しています。
-このGoogleアナリティクスはトラフィックデータの収集のためにCookieを使用しています。このトラフィックデータは匿名で収集されているので個人を特定するものではありません。この機能はCookieを無効にすることで収集を拒否できます。この規約の詳細はこちらで確認できます。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;免責事項&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;当サイトで掲載している画像の著作権等は各権利所有者に帰属します。記事の内容や掲載画像等に問題がある場合は各権利所有者本人が直接メールでご連絡ください。確認後に対応させていただきます。
-当サイトからリンクなどによって他のサイトに移動した場合は移動先で提供される情報などについて一切の責任を負いません。
-当サイトのコンテンツは可能な限り正確な情報を掲載するよう努めています。しかし情報が古くなっていることがあります。当サイトに掲載された内容によって生じた損害等の一切の責任を負いません。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;プライバシーポリシーの変更について&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;当サイトは個人情報に関して適用される日本の法令を遵守するとともに本ポリシーの内容の改善に努めます。修正された最新のプライバシーポリシーは常に本ページにて開示されます。&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>運営者情報</title>
-      <link>https://niku.page/%E9%81%8B%E5%96%B6%E8%80%85%E6%83%85%E5%A0%B1/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://niku.page/%E9%81%8B%E5%96%B6%E8%80%85%E6%83%85%E5%A0%B1/</guid>
-      
-        <description>&lt;p&gt;&lt;strong&gt;運営者&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../%E9%81%8B%E5%96%B6%E8%80%85%E6%83%85%E5%A0%B1/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB.webp&#34; alt=&#34;プロフィール&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://niku.page/%E9%81%8B%E5%96%B6%E8%80%85%E6%83%85%E5%A0%B1/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB2.webp&#34;&gt;fleshblock&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;自己紹介&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;私たちのキリスト集会は30年という長きにわたり活動して参りました。結論から申し上げますと信徒数は伸びませんでした。&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;多くの信徒が離脱し創価学会へと流れる背景には現世利益（げんせりやく）という問題があります。キリスト教徒であるには死後の世界を信じ続けなければならないのです。&lt;/p&gt;
-&lt;p&gt;日本人には霊的世界が理解できません。「天国は、ほんとうにある」だから天国ポイントを貯めようと口を酸っぱくしてゆっても無駄でした。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../%E9%81%8B%E5%96%B6%E8%80%85%E6%83%85%E5%A0%B1/%E3%83%A0%E3%82%B9%E3%83%AA%E3%83%A0.webp&#34; alt=&#34;ムスリム&#34;&gt;&lt;/p&gt;
-&lt;p&gt;画像のムスリムを見てください。サラートで「アッラーのほかに神はなし、ムハンマドは神の使徒なり」と祈っています。&lt;/p&gt;
-&lt;p&gt;サラートとはクルアーン29章45節で「あなたに啓示された啓典を読誦（どくじゅ）しなさい。そしてサラートの務めを守りなさい。本当にサラートは淫らな行為と悪行から遠ざける」と説明されています。&lt;/p&gt;
-&lt;p&gt;ムスリムは一日5回のサラートが義務づけられています。どうしてこのような信仰を持てるのでしょうか。それは死後の復活と楽園の報償を信じているからです。&lt;/p&gt;
-&lt;p&gt;これまでの皆様からのご支援に心より感謝申し上げます。&lt;/p&gt;
-</description>
-      
-    </item>
-    
-  </channel>
+     </item>
+   
+ </channel>
 </rss>
