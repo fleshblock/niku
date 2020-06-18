@@ -19,6 +19,11 @@
        
        <guid>https://niku.page/%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89/</guid>
        <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bitwarden&#34;&gt;Bitwarden&lt;/a&gt;を使用してすべてのパスワードを管理する。マスターパスワードの記憶の保持に務める。さらに、Bitwardenが&lt;a href=&#34;https://en.wikipedia.org/wiki/September_11_attacks&#34;&gt;September 11 attacks&lt;/a&gt;や&lt;a href=&#34;https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%94%BE%E7%81%AB%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6&#34;&gt;京都アニメーション放火殺人事件&lt;/a&gt;のような事態に陥った場合に備える。ローカルに&lt;a href=&#34;https://en.wikipedia.org/wiki/Ccrypt&#34;&gt;ccrypt&lt;/a&gt;を用いて暗号化したパスワードを保存することとする。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bitwarden processes and stores all data securely in the Microsoft Azure cloud using services that are managed by the team at Microsoft. Bitwarden does not manage any server infrastructure or security directly. All data is backed up multiple times over, again using services provided by Microsoft Azure.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://bitwarden.com/help/article/where-is-data-stored-cloud/&#34;&gt;Where is my data stored in the cloud? | Bitwarden Help &amp;amp; Support&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;サーバはマイクロソフトが管理している。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;BitWardenのパスワード&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;質問の答えがパスワードを構成する。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89/%E6%B5%B7.webp&#34; alt=&#34;海&#34;&gt;&lt;/p&gt;
