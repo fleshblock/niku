@@ -278,13 +278,19 @@ a:hover {
 
 .image, figure img, img {
   width: 100%;
+  /*
   box-shadow: 0 3px 3px #bbbbbb;
+  */
 }
+
 
 .full-image, figure.full img, img[src*="full"] {
   width: 100%;
+  /*
   box-shadow: 0 3px 3px #bbbbbb;
+  */
 }
+
 
 @supports (width: 100vw) {
   .full-image, figure.full img, img[src*="full"] {
@@ -398,7 +404,7 @@ blockquote {
   padding: 0.5em 2em;
   position: relative;
   background-color: #efefef;
-  box-shadow: 0 -1px 0 #bbbbbb inset;
+  box-shadow: 0 -1px 0 #ffffff inset;
 }
 
 blockquote::before {
