@@ -17,7 +17,7 @@
        <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
        
        <guid>https://niku.page/%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89/</guid>
-       <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bitwarden&#34;&gt;Bitwarden&lt;/a&gt;を使用してすべてのパスワードを管理する。マスターパスワードの記憶の保持に務める。さらに、Bitwardenが&lt;a href=&#34;https://www.publickey1.jp/blog/17/gitlabcom56.html&#34;&gt;GitLab&lt;/a&gt;のような事態に陥った場合に備える。&lt;/p&gt;
+       <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bitwarden&#34;&gt;Bitwarden&lt;/a&gt;を使用してすべてのパスワードを管理する。また、Bitwardenが&lt;a href=&#34;https://www.publickey1.jp/blog/17/gitlabcom56.html&#34;&gt;GitLab&lt;/a&gt;のような事態に陥った場合に備える。&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;The incident affected the database (including issues and merge requests) but not the git repo&amp;#39;s (repositories and wikis).&lt;/p&gt;&amp;mdash; GitLab.com Status (@gitlabstatus) &lt;a href=&#34;https://twitter.com/gitlabstatus/status/826662763577618432?ref_src=twsrc%5Etfw&#34;&gt;February 1, 2017&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;p&gt;ローカルに&lt;a href=&#34;https://en.wikipedia.org/wiki/Ccrypt&#34;&gt;ccrypt&lt;/a&gt;を用いて暗号化したパスワードを保存する。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;BitWardenのパスワード&lt;/strong&gt;&lt;/p&gt;
