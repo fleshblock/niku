@@ -399,16 +399,14 @@ table thead {
 }
 
 blockquote {
-  margin: 1em;
-  border-left: solid 0.1em #cecece;
-  padding: 0.5em 2em;
+  margin: 0em;
+  border-left: solid 0.1em #e9e9ee;
+  padding: 0em 1.5em;
   position: relative;
-  background-color: #efefef;
-  box-shadow: 0 -1px 0 #ffffff inset;
 }
 
-blockquote::before {
-  content: "\f10d";
+/*blockquote::before {
+  content: "\f0da";
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   font-size: 3em;
@@ -416,7 +414,7 @@ blockquote::before {
   position: absolute;
   left: 6px;
   top: 0;
-}
+}*/
 
 @media only screen and (max-width: 800px) {
   blockquote {
