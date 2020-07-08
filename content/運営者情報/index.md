@@ -1,14 +1,14 @@
 ---
 title: "運営者情報"
 date: 2020-01-01
-description: "私たちのキリスト集会は東京都町田市で30年間活動してきた。しかし、信徒数は伸びなかった。"
-images: [../運営者情報/ムスリム.webp]
 URL: "/運営者情報/"
 ---
 
-質問、コメント、苦情を受け付けている。
+![ムスリム](../運営者情報/ムスリム.webp)
 
-<a href="mailto:fleshblock@gmail.com">Email Fleshblock</a>
+**連絡先**
+
+fleshblock@gmail.com
 
 **自己紹介**
 

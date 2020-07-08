@@ -1,11 +1,10 @@
 ---
 title: "Dota Underlordsとレイシスト"
 date: 2020-06-27
-description: "Dota Underlordsには不適切なプレイヤー名を報告する手段がない。"
 URL: "/レイシスト/"
 ---
 
-{{% zoom-img src="../レイシスト/レイシスト.webp" %}}
+![レイシスト](../../レイシスト/レイシスト.webp)
 
 Dota Underlordsには不適切なプレイヤー名を報告する手段がない。<!--more-->
 

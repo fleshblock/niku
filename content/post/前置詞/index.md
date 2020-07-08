@@ -1,7 +1,6 @@
 ---
 title: "前置詞の定義"
 date: 2020-06-24
-description: "前置詞の定義を『The Blue Book of Grammar and Punctuation』から知る。"
 URL: "/前置詞/"
 ---
 

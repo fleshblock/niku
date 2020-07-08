@@ -1,7 +1,6 @@
 ---
 title: "前置詞のlike"
 date: 2020-06-25
-description: "前置詞のlikeを『The Blue Book of Grammar and Punctuation』から知る。"
 URL: "/like/"
 ---
 
