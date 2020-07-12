@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://niku.page/%E6%A7%8B%E6%88%90/</loc>
-    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
+    <loc>https://niku.page/post/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://niku.page/post/</loc>
+    <loc>https://niku.page/dns/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://niku.page/%E6%A7%8B%E6%88%90/</loc>
     <lastmod>2020-07-03T00:00:00+00:00</lastmod>
   </url>
   

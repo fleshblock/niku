@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copypasta 2020 fleshblock</copyright>
-    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://niku.page/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>アダルトコンテンツをDNSでブロックして子供を守る方法</title>
+      <link>https://niku.page/dns/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://niku.page/dns/</guid>
+      <description>&lt;p&gt;アダルトコンテンツをDNSでブロックすることで、有害なサイトの閲覧を防ぎ子供を守ることができる。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Dota Underlordsのノックアウトモードで強い構成</title>
@@ -48,15 +57,6 @@
       <guid>https://niku.page/%E8%AA%A4%E7%94%A8/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../%E8%AA%A4%E7%94%A8/%E8%AA%A4%E7%94%A8.webp&#34; alt=&#34;誤用&#34;&gt;&lt;/p&gt;
 &lt;p&gt;繁盛と頻繁を誤用することがある。原因は繁の字が共通していることで見間違えて覚えてしまうからだ。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>前置詞のlike</title>
-      <link>https://niku.page/like/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://niku.page/like/</guid>
-      <description>&lt;p&gt;前置詞のlikeを『The Blue Book of Grammar and Punctuation』から知る。&lt;/p&gt;</description>
     </item>
     
   </channel>
