@@ -1,62 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ニク</title>
-    <link>https://niku.page/</link>
+    <link>/</link>
     <description>Recent content on ニク</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copypasta 2020 fleshblock</copyright>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://niku.page/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>アダルトコンテンツをDNSでブロックして子供を守る方法</title>
-      <link>https://niku.page/dns/</link>
+      <title>Posts</title>
+      <link>/post/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://niku.page/dns/</guid>
-      <description>&lt;p&gt;アダルトコンテンツをDNSでブロックすることで、有害なサイトの閲覧を防ぎ子供を守ることができる。&lt;/p&gt;</description>
+      <guid>/post/</guid>
+      <description></description>
+      
     </item>
     
     <item>
-      <title>Dota Underlordsのノックアウトモードで強い構成</title>
-      <link>https://niku.page/%E6%A7%8B%E6%88%90/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <title>プライバシーポリシー</title>
+      <link>/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://niku.page/%E6%A7%8B%E6%88%90/</guid>
-      <description>&lt;p&gt;ノックアウトモードで強い構成は柔軟性があることだ。アライアンスの完成に執着してはいけない。&lt;/p&gt;</description>
+      <guid>/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC/</guid>
+      <description>広告の配信について
+当サイトは第三者配信の広告サービスである「Google Adsense」を利用しています。 広告配信事業者はユーザーの興味に応じた広告を表示するためにCookieを使用することがあります。Cookieを無効にする設定およびGoogle Adsenseに関する詳細は広告 – ポリシーと規約 – Googleで確認できます。 第三者がコンテンツおよび宣伝を提供し訪問者から直接情報を収集することがあります。訪問者のブラウザにCookieを設定したりこれを認識します。
+アクセス解析ツールについて
+当サイトではGoogleによるアクセス解析ツールである「Googleアナリティクス」を利用しています。 このGoogleアナリティクスはトラフィックデータの収集のためにCookieを使用しています。このトラフィックデータは匿名で収集されているので個人を特定するものではありません。この機能はCookieを無効にすることで収集を拒否できます。この規約の詳細はこちらで確認できます。
+免責事項
+当サイトで掲載している画像の著作権等は各権利所有者に帰属します。記事の内容や掲載画像等に問題がある場合は各権利所有者本人が直接メールでご連絡ください。確認後に対応させていただきます。 当サイトからリンクなどによって他のサイトに移動した場合は移動先で提供される情報などについて一切の責任を負いません。 当サイトのコンテンツは可能な限り正確な情報を掲載するよう努めています。しかし情報が古くなっていることがあります。当サイトに掲載された内容によって生じた損害等の一切の責任を負いません。
+プライバシーポリシーの変更について
+当サイトは個人情報に関して適用される日本の法令を遵守するとともに本ポリシーの内容の改善に努めます。修正された最新のプライバシーポリシーは常に本ページにて開示されます。</description>
+      
     </item>
     
     <item>
-      <title>Google検索による健康情報は質が低い</title>
-      <link>https://niku.page/%E3%82%AB%E3%83%AA%E3%82%A6%E3%83%A0/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <title>運営者情報</title>
+      <link>/%E9%81%8B%E5%96%B6%E8%80%85%E6%83%85%E5%A0%B1/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://niku.page/%E3%82%AB%E3%83%AA%E3%82%A6%E3%83%A0/</guid>
-      <description>&lt;p&gt;「カリウム」で検索すると、『カリウムが多い食品 - 代々木山下医院』というサイトが上位表示される。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Dota Underlordsとレイシスト</title>
-      <link>https://niku.page/%E3%83%AC%E3%82%A4%E3%82%B7%E3%82%B9%E3%83%88/</link>
-      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/%E9%81%8B%E5%96%B6%E8%80%85%E6%83%85%E5%A0%B1/</guid>
+      <description>運営者
+fleshblock
+自己紹介
+私たちのキリスト集会は東京都町田市で30年活動した。しかし、信徒数は伸びなかった。
+ 多くの信徒が離脱し創価学会へと流れた。 背景には現世利益（げんせりやく）という問題がある。  キリスト教徒であるには死後の世界を信じ続けなければならない。
+画像のムスリムはサラートで「アッラーのほかに神はなし、ムハンマドは神の使徒なり」と祈っている。
+ 一日に5回のサラートが義務づけられている。 死後の復活と楽園の報償を信じている。  日本人には霊的世界が理解できない。「天国は、ほんとうにある」だから天国ポイントを貯めようと口を酸っぱくしても無駄であった。</description>
       
-      <guid>https://niku.page/%E3%83%AC%E3%82%A4%E3%82%B7%E3%82%B9%E3%83%88/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../%E3%83%AC%E3%82%A4%E3%82%B7%E3%82%B9%E3%83%88/%E3%83%AC%E3%82%A4%E3%82%B7%E3%82%B9%E3%83%88.webp&#34; alt=&#34;レイシスト&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Dota Underlordsには不適切なプレイヤー名を報告する手段がない。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>繁盛を頻繁の意味で誤用する理由</title>
-      <link>https://niku.page/%E8%AA%A4%E7%94%A8/</link>
-      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://niku.page/%E8%AA%A4%E7%94%A8/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../%E8%AA%A4%E7%94%A8/%E8%AA%A4%E7%94%A8.webp&#34; alt=&#34;誤用&#34;&gt;&lt;/p&gt;
-&lt;p&gt;繁盛と頻繁を誤用することがある。原因は繁の字が共通していることで見間違えて覚えてしまうからだ。&lt;/p&gt;</description>
     </item>
     
   </channel>
