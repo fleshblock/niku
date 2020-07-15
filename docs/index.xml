@@ -1,33 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ニク</title>
-    <link>/</link>
+    <link>https://niku.page/</link>
     <description>Recent content on ニク</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copypasta 2020 fleshblock</copyright>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://niku.page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Posts</title>
-      <link>/post/</link>
+      <title>アダルトコンテンツをDNSでブロックして子供を守る方法</title>
+      <link>https://niku.page/dns/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/</guid>
-      <description></description>
+      <guid>https://niku.page/dns/</guid>
+      <description>&lt;p&gt;アダルトコンテンツをDNSでブロックすることで、有害なサイトの閲覧を防ぎ子供を守ることができる。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dota Underlordsのノックアウトモードで強い構成</title>
+      <link>https://niku.page/meta/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       
+      <guid>https://niku.page/meta/</guid>
+      <description>&lt;p&gt;ノックアウトモードで強い構成は柔軟性があることだ。アライアンスの完成に執着してはいけない。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>noteの使い方を覚える前に1秒でやめた理由</title>
+      <link>https://niku.page/note/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://niku.page/note/</guid>
+      <description>&lt;p&gt;&lt;img  src=&#34;../../note/note.webp&#34;
+        alt=&#34;システム障害&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;noteは独自ドメインを設定することができない。蓄積したコンテンツや他のサイトから集めたリンクは、サービス終了と同時に消える。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>fleshblockのパスワード</title>
+      <link>https://niku.page/password/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://niku.page/password/</guid>
+      <description>&lt;p&gt;Bitwardenを使用してすべてのパスワードを管理する。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>プライバシーポリシー</title>
-      <link>/privacy-policy/</link>
+      <link>https://niku.page/privacy-policy/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/privacy-policy/</guid>
+      <guid>https://niku.page/privacy-policy/</guid>
       <description>広告の配信について
 当サイトは第三者配信の広告サービスである「Google Adsense」を利用しています。 広告配信事業者はユーザーの興味に応じた広告を表示するためにCookieを使用することがあります。Cookieを無効にする設定およびGoogle Adsenseに関する詳細は広告 – ポリシーと規約 – Googleで確認できます。 第三者がコンテンツおよび宣伝を提供し訪問者から直接情報を収集することがあります。訪問者のブラウザにCookieを設定したりこれを認識します。
 アクセス解析ツールについて
@@ -36,15 +64,14 @@
 当サイトで掲載している画像の著作権等は各権利所有者に帰属します。記事の内容や掲載画像等に問題がある場合は各権利所有者本人が直接メールでご連絡ください。確認後に対応させていただきます。 当サイトからリンクなどによって他のサイトに移動した場合は移動先で提供される情報などについて一切の責任を負いません。 当サイトのコンテンツは可能な限り正確な情報を掲載するよう努めています。しかし情報が古くなっていることがあります。当サイトに掲載された内容によって生じた損害等の一切の責任を負いません。
 プライバシーポリシーの変更について
 当サイトは個人情報に関して適用される日本の法令を遵守するとともに本ポリシーの内容の改善に努めます。修正された最新のプライバシーポリシーは常に本ページにて開示されます。</description>
-      
     </item>
     
     <item>
       <title>運営者情報</title>
-      <link>/about/</link>
+      <link>https://niku.page/about/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://niku.page/about/</guid>
       <description>運営者
 fleshblock@gmail.com
 自己紹介
@@ -52,7 +79,6 @@ fleshblock@gmail.com
  多くの信徒が離脱し創価学会へと流れた。 背景には現世利益（げんせりやく）という問題がある。  キリスト教徒であるには死後の世界を信じ続けなければならない。
 画像のムスリムはサラートで「アッラーのほかに神はなし、ムハンマドは神の使徒なり」と祈っている。
  一日に5回のサラートが義務づけられている。 死後の復活と楽園の報償を信じている。  日本人には霊的世界が理解できない。「天国は、ほんとうにある」だから天国ポイントを貯めようと口を酸っぱくしても無駄であった。</description>
-      
     </item>
     
   </channel>
