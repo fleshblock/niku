@@ -1,57 +1,21 @@
-baseURL = "https://niku.page/"
-languageCode = "en-us"
-canonifyurls = true
-enableEmoji = true
-theme = "hugo-theme-hello-friend"
-publishDir = "docs"
+baseurl                 = "https://niku.page/"
+DefaultContentLanguage  = "en"
+title                   = "ニク"
+theme                   = "hugo-notepadium"
+paginate                = 8
+disqusShortname         = ""
 googleAnalytics = "UA-149589202-1"
-copyright = "Copypasta 2020 fleshblock"
-rssLimit = 5
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+pluralizeListTitles     = false
+disableLanguages        = [""]
 
 
 [params]
-defaultTheme = "light"
-contentTypeName = "post"
-rssFullContent = true
-email = "fleshblock@gmail.com"
-about = """
-"""
-
-[languages]
-  [languages.en]
-    title = "ニク"
-    readMore = "読む"
-    newerPosts = "明日"
-    olderPosts = "昨日"
-
-    [languages.en.params.logo]
-      logoText = "ニク"
-
-
-[[params.links]]
-    [[params.links.link]]
-      name = "運営者情報"
-      href = "https://niku.page/%E9%81%8B%E5%96%B6%E8%80%85%E6%83%85%E5%A0%B1/"
-    [[params.links.link]]
-      name = "プライバシーポリシー"
-      href = "https://niku.page/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC/"
-    [[params.links.link]]
-      name = "Email"
-      href = "/contact"
-      smart_email_link = true
-
-# Nav.
-[[menu.main]]
-name = "運営者情報"
-url = "/運営者情報/"
-weight = 1
-
-[[menu.main]]
-name = "プライバシーポリシー"
-url = "/プライバシーポリシー/"
-weight = 2
+  enableCDN             = false
+  cssFiles              = ["default"]
+  jsFiles               = ["default"]
+  highlightjs           = true
+  highlightjsTheme      = "github"
+  highlightjsLang       = ["html", "css", "js", "toml"]
+  viewMorePostsLink     = "/post/"
+  readingTime           = false
+  socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
