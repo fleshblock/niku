@@ -1,7 +1,7 @@
 ---
 title: "fleshblockのパスワード"
 date: 2020-06-22
-URL: "/パスワード/"
+URL: "/password/"
 ---
 
 Bitwardenを使用してすべてのパスワードを管理する。<!--more-->
@@ -14,10 +14,10 @@ Bitwardenを使用してすべてのパスワードを管理する。<!--more-->
 
 - これは誰か
 
-![海](../パスワード/パスワード.webp)
+![海](../password/password.webp)
 
 **ccryptのパスワード**
 
 - これは誰か
 
-![海](../パスワード/パスワード2.webp)
+![海](../password/password2.webp)
