@@ -1,57 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ニク</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on ニク</description>
+    <title>Post on ニク</title>
+    <link>https://niku.page/post/</link>
+    <description>Recent content in Post on ニク</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copypasta 2020 fleshblock</copyright>
     <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://niku.page/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>アダルトコンテンツをDNSでブロックして子供を守る方法</title>
-      <link>/dns/</link>
+      <link>https://niku.page/dns/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/dns/</guid>
+      <guid>https://niku.page/dns/</guid>
       <description>&lt;p&gt;アダルトコンテンツをDNSでブロックすることで、有害なサイトの閲覧を防ぎ子供を守ることができる。&lt;/p&gt;</description>
-      
     </item>
     
     <item>
       <title>Dota Underlordsのノックアウトモードで強い構成</title>
-      <link>/meta/</link>
+      <link>https://niku.page/meta/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/meta/</guid>
+      <guid>https://niku.page/meta/</guid>
       <description>&lt;p&gt;ノックアウトモードで強い構成は柔軟性があることだ。アライアンスの完成に執着してはいけない。&lt;/p&gt;</description>
-      
     </item>
     
     <item>
       <title>noteの使い方を覚える前に1秒でやめた理由</title>
-      <link>/note/</link>
+      <link>https://niku.page/note/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/note/</guid>
-      <description>&lt;p&gt;&lt;img  src=&#34;../../note/note.webp&#34;
-        alt=&#34;システム障害&#34;/&gt;&lt;/p&gt;
+      <guid>https://niku.page/note/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../note/note.webp&#34; alt=&#34;システム障害&#34;&gt;&lt;/p&gt;
 &lt;p&gt;noteは独自ドメインを設定することができない。蓄積したコンテンツや他のサイトから集めたリンクは、サービス終了と同時に消える。&lt;/p&gt;</description>
-      
     </item>
     
     <item>
       <title>fleshblockのパスワード</title>
-      <link>/password/</link>
+      <link>https://niku.page/password/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/password/</guid>
+      <guid>https://niku.page/password/</guid>
       <description>&lt;p&gt;Bitwardenを使用してすべてのパスワードを管理する。&lt;/p&gt;</description>
-      
     </item>
     
   </channel>
