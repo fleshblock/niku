@@ -48,14 +48,5 @@
       <description>&lt;p&gt;noteは独自ドメインを設定することができない。蓄積したコンテンツや他のサイトから集めたリンクは、サービス終了と同時に消える。&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>fleshblockのパスワード</title>
-      <link>https://niku.page/password/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://niku.page/password/</guid>
-      <description>&lt;p&gt;Bitwardenを使用してすべてのパスワードを管理する。&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
