@@ -1,6 +1,8 @@
 ---
 title: "アダルトコンテンツをDNSでブロックして子供を守る方法"
 date: 2020-07-12
+description: "アダルトコンテンツをDNSでブロックすることで、有害なサイトの閲覧を防ぎ子供を守ることができる。"
+meta_image: "/thumbnails/dns1.webp"
 URL: "/dns/"
 ---
 

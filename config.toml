@@ -14,14 +14,14 @@ canonifyurls = true
 enableEmoji = true
 
 publishDir = "docs"
-paginate = 20
+paginate = 30
 
 [markup.goldmark.renderer]
 unsafe = true
 
 [params]
 twitterUser = "@fleshblock"
-og_image = "../static/thumbnails/mage.webp"
+og_image = "/thumbnails/thumbnail.webp"
 
 [[params.nav.custom]]
 title = "運営者情報"

@@ -1,14 +1,14 @@
 ---
 title: "運営者情報"
 date: 2020-01-01
-URL: "/運営者情報/"
+URL: "/about/"
 ---
 
-![ムスリム](../運営者情報/ムスリム.webp)
+![ムスリム](../about/muslim.webp)
 
-**運営者**
+**連絡先**
 
-fleshblock@gmail.com
+![メールアドレス](../about/mail.webp)
 
 **自己紹介**
 

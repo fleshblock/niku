@@ -1,6 +1,8 @@
 ---
 title: "Dota Underlordsのノックアウトモードで強い構成"
 date: 2020-07-03
+description: "ノックアウトモードで強い構成は柔軟性があることだ。アライアンスの完成に執着してはいけない。"
+meta_image: "/thumbnails/mage.webp"
 URL: "/meta/"
 ---
 
