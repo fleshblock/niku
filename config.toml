@@ -1,0 +1,32 @@
+baseURL = "https://niku.page/"
+title = "ニク"
+theme = "hugo-notepadium"
+copyright = ""
+
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+
+googleAnalytics = "UA-149589202-1"
+
+canonifyurls = true
+enableEmoji = true
+
+publishDir = "docs"
+paginate = 10
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+twitterUser = "@fleshblock"
+og_image = "/thumbnails/thumbnail.webp"
+
+[[params.nav.custom]]
+title = "運営者情報"
+url = "/about"
+
+[[params.nav.custom]]
+title = "プライバシーポリシー"
+url = "/privacy-policy"
