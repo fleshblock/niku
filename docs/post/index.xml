@@ -47,14 +47,5 @@
       <description>&lt;p&gt;noteは独自ドメインを設定することができない。蓄積したコンテンツや他のサイトから集めたリンクは、サービス終了と同時に消える。&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>クラウドを使うべし</title>
-      <link>https://niku.page/post/test2/</link>
-      <pubDate>Sun, 08 Mar 2020 01:53:31 +0100</pubDate>
-      
-      <guid>https://niku.page/post/test2/</guid>
-      <description>aaaa</description>
-    </item>
-    
   </channel>
 </rss>
