@@ -14,7 +14,7 @@ canonifyurls = true
 enableEmoji = true
 
 publishDir = "docs"
-paginate = 30
+paginate = 10
 
 [markup.goldmark.renderer]
 unsafe = true
