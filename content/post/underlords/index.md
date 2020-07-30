@@ -2,7 +2,7 @@
 title: "Dota Underlordsを退屈にする要素"
 date: 2020-07-15
 description: "以前のUnderlordsはスキル選択が可能であった。現在は2種類のうちの1つがランダムに出現する。"
-URL: "/dota-underlords/"
+URL: "/underlords/"
 ---
 
 以前のUnderlordsはスキル選択が可能であった。現在は2種類のうちの1つがランダムに出現する。<!--more-->

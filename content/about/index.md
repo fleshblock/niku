@@ -3,13 +3,13 @@ title: "運営者情報"
 date: 2020-01-01
 description: "私たちのキリスト集会は東京都町田市で30年活動した。しかし、信徒数は伸びなかった。"
 meta_image: "/thumbnails/muslim.webp"
-cover: "../fleshblock/muslim.webp"
-URL: "/fleshblock/"
+cover: "../about/muslim.webp"
+URL: "/about/"
 ---
 
 **連絡先**
 
-![メールアドレス](../fleshblock/mail.webp)
+![メールアドレス](../about/mail.webp)
 
 **自己紹介**
 

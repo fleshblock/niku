@@ -25,7 +25,7 @@ og_image = "/thumbnails/thumbnail.webp"
 
 [[params.nav.custom]]
 title = "運営者情報"
-url = "/fleshblock"
+url = "/about"
 
 [[params.nav.custom]]
 title = "プライバシーポリシー"
