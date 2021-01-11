@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ニク</title>
+    <title>ニクプロジェクト on ニク</title>
     <link>https://niku.page/</link>
-    <description>Recent content on ニク</description>
+    <description>Recent content in ニクプロジェクト on ニク</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://niku.page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://niku.page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dota Underlordsのノックアウトモードを攻略。xoxo V氏の構成</title>
       <link>https://niku.page/xoxo-v/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://niku.page/xoxo-v/</guid>
-      <description>&lt;img src=&#34;../xoxo-v/xoxo-v.webp&#34; alt=&#34;xoxo-V&#34;&gt;
+      <description>&lt;h1&gt;Dota Underlordsのノックアウトモードを攻略。xoxo V氏の構成&lt;/h1&gt;
+&lt;img src=&#34;../xoxo-v/xoxo-v.webp&#34; alt=&#34;xoxo-V&#34;&gt;
 &lt;p&gt;ノックアウトモードでトップ10に入るような高レートのプレイヤーと対戦する機会は少ない。偶然にもxoxo V氏と対戦する機会を得たので構成を中心に紹介する。&lt;/p&gt;</description>
     </item>
     
