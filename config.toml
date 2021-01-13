@@ -1,0 +1,29 @@
+baseURL = "https://niku.page/"
+theme = "hugo_theme_adam_eve"
+languageCode = "ja"
+DefaultContentLanguage = "ja"
+# Enable Emoji, regarding https://www.webfx.com/tools/emoji-cheat-sheet/
+canonifyurls = true
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = "UA-149589202-1"
+publishDir = "docs"
+EnableGitInfo = false
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[Languages.en]
+languageCode = "en"
+title = "ニク"
+
+[Languages.ja]
+languageCode = "ja"
+title = "ニク"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 6
+    ordered = false
+    startLevel = 1
